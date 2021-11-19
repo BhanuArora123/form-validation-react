@@ -1,0 +1,8 @@
+.invalid-input{
+    background-color: red;
+}
+.disable-btn{
+    cursor:not-allowed;
+    background-color: gray;
+    color: white;
+}
